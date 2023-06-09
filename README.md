@@ -4,9 +4,8 @@
 [![Author](https://img.shields.io/badge/Author-Ferl--Afriliyan-blue)](https://github.com/htr-tech)
 [![Opensource](https://img.shields.io/badge/Open%20Source-Yes-green)](#)
 [![Version](https://badge.fury.io/py/GithubStat.svg)](https://badge.fury.io/py/GithubStat)
-[![Python Version](https://img.shields.io/pypi/pyversions/GithubStat.svg)](https://pypi.org/project/GithubStat)
+[![Python Version](https://img.shields.io/pypi/pyversions/GithubStat.svg)](https://pypi.org/project/check-python-versions)
 [![Total Downloads](https://pepy.tech/badge/GithubStat)](https://pepy.tech/project/GithubStat)
-[![Monthly Downloads](https://pepy.tech/badge/GithubStat/month)](https://pepy.tech/project/GithubStat/month)
 
 ### Installation :
 
