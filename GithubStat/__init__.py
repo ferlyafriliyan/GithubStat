@@ -1,9 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Gak keren bro kalo lu recode gak nyantumin nama author
+
 # MIT License
 
-# Copyright (c) 2023  [ Dvanmeploph - ( Ferly Afriliyan - Itsmeafriliyan ) ] -
+# Copyright (c) 2023  [ Dvanmeploph - ( Ferly Afriliyan - Livian-xyz ) ] -
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -132,7 +134,7 @@ def stats(user):
         pass
 
 note = """
- GithubStat (c) Tahmid Rayat <https://github.com/Itsmeafriliyan>
+ GithubStat (c) [ Ferly Afriliyan (Livian-xyz) ] <https://github.com/Livian-xyz>
 
  A Simple Github User Statistics Meter based on Github-API.
 
