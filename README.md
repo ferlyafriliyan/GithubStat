@@ -20,27 +20,27 @@ $ GithubStat <github-username>
 - **Use it via console :**
 ```python
 >>> from GithubStat.__init__ import stats
->>> stats('Itsmeafriliyan')
+>>> stats('Livian-xyz')
 
 [-] Username  : Itsmeafriliyan
 
-[-] Name      : [ Dvanmeploph - ( Ferly Afriliyan - Itsmeafriliyan ) ] -
+[-] Name      : [ Dvanmeploph - ( Ferly Afriliyan - Livian-xyz ) ] -
 [-] Followers : 66
 [-] Following : 2
 ......
 ```
 - **Install GithubStat via Github :**
 ```python
-$ git clone https://github.com/Itsmeafriliyan/GithubStat.git
+$ git clone https://github.com/Livian-xyz/GithubStat.git
 $ cd GithubStat
 $ python setup.py install
 $ GithubStat <github-username>
 ```
 
-***Copyright (c) 2022 [ Dvanmeploph - ( Ferly Afriliyan - Itsmeafriliyan ) ] - Under [MIT LICENSE](https://github.com/Itsmeafriliyan/GithubStat/blob/master/LICENSE#L1)***
+***Copyright (c) 2022 [ Dvanmeploph - ( Ferly Afriliyan - Itsmeafriliyan ) ] - Under [MIT LICENSE](https://github.com/Livian-xyz/GithubStat/blob/master/LICENSE#L1)***
 
 ### *📡 Get in Touch :*
-[![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/Livian-xyz)
 [![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://fb.com/freya.xyz)
 [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram)](https://www.instagram.com/afriliyanferlly_shishigami)
 
