@@ -132,13 +132,13 @@ def stats(user):
         print('')
     else:
         pass
-
+os.system("clear")
 note = """
- GithubStat (c) [ - ( Ferly Afriliyan - Ryougaa) ] - <https://github.com/ferlyafriliyan>
+[•] GithubStat (c) [ - ( Ferly Afriliyan - Ryougaa) ] -
+[•] https://github.com/ferlyafriliyan
 
- A Simple Github User Statistics Meter based on Github-API.
-
- Type GithubStat <your github username>
+[-] A Simple Github User Statistics Meter based on Github-API.
+[-] Type GithubStat <your github username>
 
  Example : GithubStat ferlyafriliyan
 
