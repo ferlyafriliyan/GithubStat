@@ -1,6 +1,10 @@
 from setuptools import setup
 from setuptools import find_packages
 
+import os
+
+# os.system("clear")
+
 with open("README.md", "r") as markdown:
     long_description = markdown.read()
 
@@ -42,3 +46,4 @@ setup(
         }
 )
 
+os.system("clear")
