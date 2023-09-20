@@ -25,7 +25,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-#      Copyright (C) 2023  Itsmeafriliyan (https://github.com/Itsmeafriliyan)
+#      Copyright (C) 2023  Ferly Afriliyan (https://github.com/ferlyafriliyan)
 #
 
 import os
@@ -134,13 +134,13 @@ def stats(user):
         pass
 
 note = """
- GithubStat (c) [ Ferly Afriliyan (Livian-xyz) ] <https://github.com/Livian-xyz>
+ GithubStat (c) [ - ( Ferly Afriliyan - Ryougaa) ] - <https://github.com/ferlyafriliyan>
 
  A Simple Github User Statistics Meter based on Github-API.
 
  Type GithubStat <your github username>
 
- Example : GithubStat Itsmeafriliyan
+ Example : GithubStat ferlyafriliyan
 
  If you Like this Project then don't Forget to leave a Star :)
 """
